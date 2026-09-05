@@ -242,7 +242,7 @@ section .main-container{
     transition: 0.2s linear;
 }
 
-.kick-icon{
+.twitch-icon{
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -258,7 +258,7 @@ section .main-container{
 }
 
 .social-icons i:hover,
-.kick-icon:hover{
+.twitch-icon:hover{
     scale: 1.3;
     color: black;
     background-color: #9000f0;
